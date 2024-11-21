@@ -1,12 +1,12 @@
 # Repositoy of IRSL at TUT 
 
-[IRSL(Information Robotic System Laboratory)](https://irsl.eiiris.tut.ac.jp/)
+[IRSL(Information Robotic System Laboratory) Home page of our laboartory](https://irsl.eiiris.tut.ac.jp/)
 
-[TUT(Toyohashi University of Technology)](https://www.tut.ac.jp/english/)
+[TUT(Toyohashi University of Technology) Home page of our university](https://www.tut.ac.jp/english/)
 
 ## CPS-lecture
 
-Documentation of our lecture for building, programming, and moving robots
+Documentation of our lecture for building, programming, and using robots
 
 https://irsl-tut.github.io/CPS-lecture/
 
